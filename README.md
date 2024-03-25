@@ -53,39 +53,63 @@ Figure -02 HALF Subtractor
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
 Developed by: V MYTHILI
+
+
 RegisterNumber: 212223040123*/
 
 **CODE:**
 
 **HALF ADDER:**
+
+
+
 <img width="613" alt="de ex 3 1" src="https://github.com/Mythili7339267708/HALF_ADDER_SUBTRACTOR/assets/144260246/74ef746d-bcc4-4a3a-b05c-bab1f3dfba11">
 
+
+
 **HALF SUBTRACTOR:**
+
+
 
 <img width="610" alt="de ex3 2" src="https://github.com/Mythili7339267708/HALF_ADDER_SUBTRACTOR/assets/144260246/8f4c3e34-6dae-4edc-afbb-6b9700b23f4f">
 
 
 
 **RTL Schematic**
+
+
+
 **HALF ADDER:**
 
 <img width="599" alt="de ex 3 3" src="https://github.com/Mythili7339267708/HALF_ADDER_SUBTRACTOR/assets/144260246/8fd902ef-b38e-42f0-8c8a-ae9f253a53cb">
 
 **HALF SUBTRACTOR:**
+
+
 <img width="581" alt="de ex 3 4" src="https://github.com/Mythili7339267708/HALF_ADDER_SUBTRACTOR/assets/144260246/86355e07-7243-4ca1-b814-7d81d2414b30">
 
 
 **Output/TIMING Waveform**
 
+
+
 **HALF ADDER:**
+
 
 <img width="614" alt="de ex3 5" src="https://github.com/Mythili7339267708/HALF_ADDER_SUBTRACTOR/assets/144260246/a9c075c5-934c-4a05-94a8-60b1308c4816">
 
+
+
+
 **HALF SUBTRACTOR:**
+
+
 
 <img width="610" alt="de ex3 6" src="https://github.com/Mythili7339267708/HALF_ADDER_SUBTRACTOR/assets/144260246/010c85e8-d477-457b-a682-e407cfe9b1d6">
 
 
 **Result:**
+
+
 
 Thus, a half adder and half subtractor circuit is designed to verify its truth table in Quartus using Verilog programming.
